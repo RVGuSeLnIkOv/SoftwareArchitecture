@@ -7,4 +7,7 @@
 ## Диаграмма последовательности для совершения обходов
 ![plantuml-diagram (3)](https://github.com/user-attachments/assets/01fe43a3-7a5d-4070-86c8-9b9a2f469203)
 
+![plantuml-diagram (4)](https://github.com/user-attachments/assets/238cd356-2d73-45b5-8f5f-545e9dff2e36)
+
+
 

@@ -2,7 +2,7 @@
 ![C1](https://github.com/user-attachments/assets/8f12581e-d49f-407c-bbde-987fb5fae56d)
 
 ## Диаграмма контейнеров
-![C2new](https://github.com/user-attachments/assets/792f3f17-9e61-43d2-865b-f0eb432b8529)
+![C2_vol3](https://github.com/user-attachments/assets/ba1d4114-68f0-4c9f-a433-79fcff0a1453)
 
 ## Диаграмма компонентов для сервиса мессенджера
 ![C3 message](https://github.com/user-attachments/assets/7dbcf839-c013-479b-b1ef-22464d2c85cd)

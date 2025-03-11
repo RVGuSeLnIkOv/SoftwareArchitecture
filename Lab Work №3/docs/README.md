@@ -5,10 +5,11 @@
 ![C3 bypass](https://github.com/user-attachments/assets/113eb7d3-24c4-4d2b-8dad-409c74fe2f7c)
 
 ## Диаграмма последовательности для совершения обходов
-![plantuml-diagram (3)](https://github.com/user-attachments/assets/01fe43a3-7a5d-4070-86c8-9b9a2f469203)
+![диаграмма последовательности](https://github.com/user-attachments/assets/43dda49e-db9a-44a2-9213-fb1ef5924cd6)
 
 ## Модель БД
-![plantuml-diagram (4)](https://github.com/user-attachments/assets/238cd356-2d73-45b5-8f5f-545e9dff2e36)
+![диаграмма классов](https://github.com/user-attachments/assets/d9beb9ca-6413-417e-97f1-1ec25bb6a6b2)
+
 
 
 

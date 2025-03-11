@@ -11,7 +11,7 @@
 ![диаграмма классов](https://github.com/user-attachments/assets/d9beb9ca-6413-417e-97f1-1ec25bb6a6b2)
 
 ## Реализованный код
-'''
+``` java
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.data.jpa.repository.JpaRepository;
@@ -245,6 +245,6 @@ class DefectController {
         return defectRepository.save(defect);
     }
 }
-'''
+```
 
 

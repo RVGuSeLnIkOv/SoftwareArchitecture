@@ -1,6 +1,6 @@
 # Лабораторная работа №3
 ## Диаграмма контейнеров
-![C2new](https://github.com/user-attachments/assets/792f3f17-9e61-43d2-865b-f0eb432b8529)
+![C2_vol3](https://github.com/user-attachments/assets/cc611c77-b9a7-45ee-a397-dc13fece5483)
 
 ## Диаграмма компонентов для сервиса обходов
 ![C3 bypass](https://github.com/user-attachments/assets/113eb7d3-24c4-4d2b-8dad-409c74fe2f7c)

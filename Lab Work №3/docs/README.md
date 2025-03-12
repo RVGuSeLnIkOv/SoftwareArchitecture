@@ -3,7 +3,7 @@
 ![C2_vol3](https://github.com/user-attachments/assets/cc611c77-b9a7-45ee-a397-dc13fece5483)
 
 ## Диаграмма компонентов для сервиса обходов
-![C3 bypass](https://github.com/user-attachments/assets/113eb7d3-24c4-4d2b-8dad-409c74fe2f7c)
+![C3 bypass](https://github.com/user-attachments/assets/2cc3e679-b153-46a6-b0f8-fb7f5db39665)
 
 ## Диаграмма последовательности для совершения обходов
 ![диаграмма последовательности](https://github.com/user-attachments/assets/43dda49e-db9a-44a2-9213-fb1ef5924cd6)
